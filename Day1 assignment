@@ -1,0 +1,16 @@
+Public class assignment
+Public static void(string[] args) {
+Float p1=70;
+Float p2=20;
+Float p3=10;
+Float taxper=18;
+Float finalsum=p1 +p2+p3;
+Float finalsum=(taxper/100)×finalsum;
+System.out.printin("final Amount" + final Amount);
+Public static float calAmount(float p1,float p3,float p3,float tax) {
+Float finalsum=p1+p2+p3;
+Float finalsum=(taxper/100)×finalsum;
+System.out.printin("final Amount"+ final Amount);
+Return 0;
+}
+}
