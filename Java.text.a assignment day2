@@ -1,0 +1,18 @@
+Public class assignment 2{
+Public static void main(string[]args) {
+Float height convertor=call convertor(5,11);
+System.out.printin("final hight ");
+Float weight convertor=call convertor(60);
+System.out.printin("final weight");
+}
+Public static float callconvertor(float height convertor,float weight convertor)
+{
+Float feet=feet×12;
+Float total inches=11inche to 60inche;
+//Centimeter=2.54;
+Float total hegiht=inches×centimeter;
+//Pounds=2.2;
+Float total weight=weight×pounds;
+
+}
+}
