@@ -1,0 +1,19 @@
+Public class string{
+Public static void main(string[] args) {
+Scanner scan=new scanner(system.in);
+String in1=scan.next();
+String in2=scan.next();
+int length 1=in1. Length();
+int length 2=in2. Length();
+String last 2 for 2=in1.substring(length 2-2,length2);
+String last 2 for 2=in2.substring(length 1-2,length1);
+String first 2 for 2=in2.substring(0,2);
+String first 2 for 1=in1.substring(0,2);
+String result 1=last 2 for2 + in1.substring(2,length1-2)+first 2 for 2;
+
+String result 2=last 2 for1+ in2.substring(2,length1-2)+first 2 for 1;
+
+System.out.printin(result 1);
+System.out.printin(result 2);
+}
+}
