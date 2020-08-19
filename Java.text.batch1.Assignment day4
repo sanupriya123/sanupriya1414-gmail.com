@@ -1,0 +1,13 @@
+import Java.util.scanner;
+Public class assignment {
+Public static void main(string[]args) {
+Scanner scan=new scanner(system.in);
+System.out.printIn("enter the  number:);
+Long Input = scan.next long();× /
+Long value = -234445600;
+//The literal 234445600 of type int is out of range.
+
+System.out.printIn("input number"+ value);
+
+}
+}
